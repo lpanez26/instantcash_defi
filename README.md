@@ -24,7 +24,6 @@ InstantCash will be built on the Ethereum blockchain and will utilize the follow
 To get started with InstantCash, you'll need to have the following installed on your machine:
 - **Metamask**: A browser extension that enables you to interact with the Ethereum blockchain.
 - **Node.js**: A JavaScript runtime environment that allows you to run JavaScript code on your machine.
-- **Truffle**: A development framework for Ethereum that includes tools for compiling, testing, and deploying smart contracts.
 Once you have these installed, follow these steps to set up the project:
 1. Clone the project repository to your local machine.
 2. Install the dependencies using the command `npm install`.
