@@ -1,12 +1,16 @@
 # InstantCash
-## Introduction
 We're excited to introduce InstantCash, a decentralized finance (DeFi) solution that allows users to buy now and pay later with ETH collateral from Coinbase.com. Our project is designed for users from emerging markets, such as Latin America, Africa, and Asia, who may not have access to traditional credit scoring methods. InstantCash is a fully trustless DeFi protocol that requires no credit score check, making it accessible to a wider range of users.
 
 ## Project Overview
-InstantCash is a DeFi buy now pay later platform that allows users to make purchases using their ETH as collateral. The platform provides an instant credit with a payment plan of four monthly payments with 1% of interest per month. There are no hidden fees, and the protocol is sponsoring the gas fees, making it a low-cost solution for users.
+InstantCash is a DeFi buy now pay later platform that allows users to make purchases using their ETH as collateral. The platform provides an instant credit with a payment plan of four monthly payments with 1% of interest per month. There are no hidden fees, and the protocol is sponsoring the gas fees, making it a low-cost solution for users. Our project aims to provide quick financing to individuals in emerging markets, where traditional financial services are often inaccessible or unfair.
+
+## Problem Statement
+Traditional financial services in emerging markets often lack accessibility and fairness, particularly for individuals without credit scores. Our project addresses this issue by leveraging the power of DeFi to provide a trustless, transparent, and efficient solution.
 
 ## Inspiration
-We believe the path to gaining users in the crypto space lies in solving real-world problems faced by non-crypto users. Our focus is on providing quick, fair financing to individuals in regions where traditional financial services are often inaccessible or unfair. By leveraging the power of DeFi, we aim to offer a trustless, transparent, and efficient solution to meet these needs.
+We believe that solving real-world problems faced by non-crypto users is key to gaining widespread adoption in the crypto space. Our focus is on providing quick, fair financing to individuals in regions where traditional financial services are often inaccessible or unfair. Our main goals are:
+1. By leveraging the power of DeFi, we aim to offer a trustless, transparent, and efficient solution to meet these needs.
+2. By targeting the unbanked and underbanked populations in LATAM, Africa, and Asia, we can make a significant impact on financial inclusion.
 
 ## Features
 Here are the key features of InstantCash:
@@ -15,10 +19,27 @@ Here are the key features of InstantCash:
 - **Low-cost solution**: There are no hidden fees, and the protocol is sponsoring the gas fees, making it a low-cost solution for users.
 - **Easy to use**: Users can connect to InstantCash using their Coinbase.com account, making it easy to use and accessible to a wide range of users.
 
+## Benefits
+- **Quick financing for the forgotten ones**: Provides access to quick financing for individuals in emerging markets.
+- **Fair plans**: Offers a fair and transparent payment plan.
+- **Trustless**: Leverages the power of DeFi to create a trustless, efficient solution.
+- **Widespread**: Taps into Coinbase.com's user base of over 100 million users worldwide.
+
+## How it Works
+1. Users connect to InstantCash using their Coinbase.com account.
+2. Users must have ETH in their Coinbase.com account to use as collateral for the credit.
+3. Upon approval, users receive instant credit with a payment plan of 4 monthly payments with 1% interest per month.
+4. No hidden fees, no gas or transaction fees - the protocol sponsors the gas.
+
 ## Technical Specifications
-InstantCash will be built on the Ethereum blockchain and will utilize the following technologies:
-- **Smart contracts**: InstantCash will use smart contracts to automate the buy now pay later process and ensure that the collateral is returned to the user once the loan is repaid.
-- **Coinbase API**: InstantCash will use the Coinbase API to connect with users' Coinbase.com accounts and let them use their ETH from their accounts.
+- **Built on Base**: InstantCash's smart contracts are deployed on Base, Ethereum L2 from Coinbase.
+- **Smart contracts**: InstantCash uses smart contracts to automate the buy now pay later process and ensure that the collateral is returned to the user once the loan is repaid.
+- **Coinbase API**: InstantCash utilizes Coinbase.com API for user authentication and ETH collateral management.
+
+## Future Development
+- **More crypto collateral options**: Expand to support additional cryptocurrencies as collateral.
+- **Local payment gateways**: Integrate with local payment systems in emerging markets.
+- **Mobile friendly**: Develop a mobile application for easier access to InstantCash.
 
 ## Getting Started
 To get started with InstantCash, you'll need to have the following installed on your machine:
