@@ -60,9 +60,9 @@ Once you have these installed, follow these steps to set up the project:
 5. Run the frontend using the command `npm start`.
 
 ## Contributors
-- **Livia P.**: aka [lpanez26](https://github.com/lpanez26), Marketing & Branding.
-- **Julio M.**: aka [Julio M Cruz](https://github.com/JulioMCruz), Frontend.
-- **J. Brian**: aka [jcBrian](https://github.com/), Smart Contracts.
+- **Julio M.**: aka [Julio M Cruz](https://github.com/JulioMCruz), Frontend. (Tech)
+- **J. Brian**: aka [jcBrian](https://github.com/), Smart Contracts.(Tech)
+- **Livia P.**: aka [lpanez26](https://github.com/lpanez26), Marketing & Ux Design.
 - **Fredy D.**: aka [Dev bambino](https://github.com/devbambino), Biz model & Architecture.
 
 ## License
