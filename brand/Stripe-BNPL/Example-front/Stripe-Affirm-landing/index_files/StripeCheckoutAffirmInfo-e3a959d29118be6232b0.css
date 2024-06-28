@@ -1,0 +1,1 @@
+.StripeCheckoutAffirm{display:grid;grid:repeat(2,auto)/1fr;gap:8px 0;margin:-8px 0 0}.StripeCheckoutAffirm__disclaimer{font:var(--fontWeightNormal) 10px/14px var(--fontFamily);color:#727f96}.StripeCheckout--isFullBleed .StripeCheckoutAffirm__disclaimer{font:var(--fontWeightNormal) 9px/13px var(--fontFamily)}.StripeCheckoutAffirmInfo__link{color:#635bff}

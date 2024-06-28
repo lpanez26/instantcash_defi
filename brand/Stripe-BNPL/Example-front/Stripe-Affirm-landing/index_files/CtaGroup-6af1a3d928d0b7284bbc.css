@@ -1,0 +1,1 @@
+.CtaGroup{--ctaGroupGapSmall:8px;--ctaGroupGapNormal:16px;--ctaGroupGap:var(--ctaGroupGapNormal);display:flex;align-items:center;padding:0 0 0 var(--columnPaddingNormal)}.CtaGroup--inline{padding-left:0}.CtaGroup--gapSmall{--ctaGroupGap:var(--ctaGroupGapSmall)}.CtaGroup>.CtaButton:not(:first-of-type){margin-left:var(--ctaGroupGap)}
