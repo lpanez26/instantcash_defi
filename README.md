@@ -1,3 +1,5 @@
+<img src="brand/logo.png" width="100%">
+
 # InstantCash
 We're excited to introduce InstantCash, a decentralized finance (DeFi) solution that allows users to buy now and pay later with ETH collateral from Coinbase.com. Our project is designed for users from emerging markets, such as Latin America, Africa, and Asia, who may not have access to traditional credit scoring methods. InstantCash is a fully trustless DeFi protocol that requires no credit score check, making it accessible to a wider range of users.
 
