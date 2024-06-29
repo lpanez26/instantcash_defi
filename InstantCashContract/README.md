@@ -45,3 +45,11 @@ yarn release
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+
+# To create the framework run:
+
+npx thirdweb@5.22.1 create contract
+
+npx thirdweb@5.22.1 deploy
+
