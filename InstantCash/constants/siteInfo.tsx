@@ -7,14 +7,4 @@ export const MENU_ITEMS = [
         href: "/",
         icon: "/resources/icons8-home.svg" 
     },
-    { 
-        label: "About Us", 
-        href: "/about",
-        icon: "/resources/icons8-about-us.svg"
-    },
-    { 
-        label: "Contact Us", 
-        href: "/contact",
-        icon: "/resources/icons8-contact-us.svg"
-    },
 ];

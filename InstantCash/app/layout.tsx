@@ -8,6 +8,8 @@ import {
   ThirdwebProvider,
 } from "thirdweb/react";
 
+import { AppProvider } from "@/context/GlobalContext";
+
 const inter = Inter({ subsets: ["latin"] });
 
 // export const metadata: Metadata = {
@@ -23,9 +25,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-      <ThirdwebProvider>
+      <AppProvider>
+        <ThirdwebProvider>
           {children}
         </ThirdwebProvider>
+      </AppProvider>
       </body>
     </html>
   );
